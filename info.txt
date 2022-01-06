@@ -1,0 +1,32 @@
+ip : http://192.168.43.43:8000/
+emulator path : C:\Users\WhITE\AppData\Local\Android\Sdk\emulator
+emulator list : emulator -list-avds
+emulator Internet : emulator -avd Nexus_5X_API_25 -dns-server 8.8.8.8
+
+cmd : npx react-native run-android
+cmd console log : react-native log-android
+run server for laravel  : php artisan serve --host 0.0.0.0
+
+@react-native-community/datetimepicker
+
+
+primary color : #222a45
+
+
+<DropDownPicker
+    zIndex={3000}
+    zIndexInverse={1000}
+    ...
+/>
+
+<DropDownPicker
+    zIndex={2000}
+    zIndexInverse={2000}
+    ...
+/>
+
+<DropDownPicker
+    zIndex={1000}
+    zIndexInverse={3000}
+    ...
+/>

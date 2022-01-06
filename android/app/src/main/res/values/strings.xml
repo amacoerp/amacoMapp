@@ -1,0 +1,4 @@
+<!-- app name can be changed -->
+<resources>
+    <string name="app_name">Amaco</string>
+</resources>
